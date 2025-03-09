@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/transportcleaner/static/css/main.64ffbdd1.css",
+    "main.js": "/transportcleaner/static/js/main.63d65984.js",
+    "static/media/service.jpg": "/transportcleaner/static/media/service.04d463436154010eb4e3.jpg",
+    "static/media/ChooseUsSection.png": "/transportcleaner/static/media/ChooseUsSection.6c9a462cfba59f906801.png",
+    "static/media/hero_image.png": "/transportcleaner/static/media/hero_image.89dc6060254744ceb6b1.png",
+    "static/media/testimonial.png": "/transportcleaner/static/media/testimonial.5f032790cd501d434858.png",
+    "static/media/slick.svg": "/transportcleaner/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/transportcleaner/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/transportcleaner/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/transportcleaner/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/transportcleaner/index.html",
+    "main.64ffbdd1.css.map": "/transportcleaner/static/css/main.64ffbdd1.css.map",
+    "main.63d65984.js.map": "/transportcleaner/static/js/main.63d65984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ffbdd1.css",
+    "static/js/main.63d65984.js"
+  ]
+}

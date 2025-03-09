@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/transportcleaner/static/css/main.8985bfda.css",
-    "main.js": "/transportcleaner/static/js/main.ba783477.js",
+    "main.js": "/transportcleaner/static/js/main.e1c82b40.js",
     "static/media/service.jpg": "/transportcleaner/static/media/service.04d463436154010eb4e3.jpg",
     "static/media/ChooseUsSection.png": "/transportcleaner/static/media/ChooseUsSection.6c9a462cfba59f906801.png",
     "static/media/hero_image.png": "/transportcleaner/static/media/hero_image.89dc6060254744ceb6b1.png",
@@ -15,10 +15,10 @@
     "static/media/slick.woff": "/transportcleaner/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/transportcleaner/index.html",
     "main.8985bfda.css.map": "/transportcleaner/static/css/main.8985bfda.css.map",
-    "main.ba783477.js.map": "/transportcleaner/static/js/main.ba783477.js.map"
+    "main.e1c82b40.js.map": "/transportcleaner/static/js/main.e1c82b40.js.map"
   },
   "entrypoints": [
     "static/css/main.8985bfda.css",
-    "static/js/main.ba783477.js"
+    "static/js/main.e1c82b40.js"
   ]
 }

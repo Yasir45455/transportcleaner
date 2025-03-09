@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/transportcleaner/static/css/main.751cc39f.css",
-    "main.js": "/transportcleaner/static/js/main.aa575ea6.js",
+    "main.css": "/transportcleaner/static/css/main.dc4c5318.css",
+    "main.js": "/transportcleaner/static/js/main.e41f7289.js",
     "static/media/service.jpg": "/transportcleaner/static/media/service.04d463436154010eb4e3.jpg",
     "static/media/ChooseUsSection.png": "/transportcleaner/static/media/ChooseUsSection.6c9a462cfba59f906801.png",
     "static/media/needhelp.png": "/transportcleaner/static/media/needhelp.966fe75e42095d4e9663.png",
     "static/media/hero_image.png": "/transportcleaner/static/media/hero_image.89dc6060254744ceb6b1.png",
+    "static/media/firstsection.png": "/transportcleaner/static/media/firstsection.36f6f53dc545b1875fb8.png",
     "static/media/ourservices.png": "/transportcleaner/static/media/ourservices.96d106a8575739b167fe.png",
+    "static/media/faqimage.png": "/transportcleaner/static/media/faqimage.fd4a844071230de197a1.png",
     "static/media/testimonial.png": "/transportcleaner/static/media/testimonial.5f032790cd501d434858.png",
     "static/media/getoffer.png": "/transportcleaner/static/media/getoffer.419d18d80004448cd119.png",
+    "static/media/image43.png": "/transportcleaner/static/media/image43.d28c73ca429696e6fb95.png",
+    "static/media/image42.png": "/transportcleaner/static/media/image42.ccfdaafd0f7f46e1b443.png",
+    "static/media/image47.png": "/transportcleaner/static/media/image47.9068df1de72a5811d1c4.png",
+    "static/media/image44.png": "/transportcleaner/static/media/image44.b7447e5423c9b7d346f8.png",
     "static/media/bookservice.png": "/transportcleaner/static/media/bookservice.c4b9f6f0ff547eea5fb8.png",
+    "static/media/about.png": "/transportcleaner/static/media/about.fc86e8315971c7c1c438.png",
     "static/media/hand.png": "/transportcleaner/static/media/hand.3dfca80a22b73c9e8216.png",
     "static/media/slick.svg": "/transportcleaner/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/transportcleaner/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/transportcleaner/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/transportcleaner/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/transportcleaner/index.html",
-    "main.751cc39f.css.map": "/transportcleaner/static/css/main.751cc39f.css.map",
-    "main.aa575ea6.js.map": "/transportcleaner/static/js/main.aa575ea6.js.map"
+    "main.dc4c5318.css.map": "/transportcleaner/static/css/main.dc4c5318.css.map",
+    "main.e41f7289.js.map": "/transportcleaner/static/js/main.e41f7289.js.map"
   },
   "entrypoints": [
-    "static/css/main.751cc39f.css",
-    "static/js/main.aa575ea6.js"
+    "static/css/main.dc4c5318.css",
+    "static/js/main.e41f7289.js"
   ]
 }
